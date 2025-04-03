@@ -1,5 +1,4 @@
-# html-css-basic-kadai
-<!DOCTYPE html>
+# html-css-basic-kad<!DOCTYPE html>
 <html>
 <head>
   <title>5章課題</title>
